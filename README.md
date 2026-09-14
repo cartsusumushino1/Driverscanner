@@ -213,3 +213,6 @@ DriverScanner is provided as a full free version with all features and updates i
 ---
 
 Don't wait any longer! Experience the ease of driver management with **DriverScanner** today and keep your system running at its best!
+
+---
+**Last updated:** 2026-09-14 16:06:58 UTC
